@@ -49,6 +49,7 @@ function render(variables = {}) {
 /**
  * Don't change any of the lines below, here is where we do the logic for the dropdowns
  */
+
 window.onload = function() {
   window.variables = {
     // if includeCover is true the algorithm should
